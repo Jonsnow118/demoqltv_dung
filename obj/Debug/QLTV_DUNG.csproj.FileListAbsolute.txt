@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\bin\Debug\Database1.mdf
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\bin\Debug\Database1_log.ldf
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\bin\Debug\QLTV_DUNG.exe.config
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\bin\Debug\QLTV_DUNG.exe
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\bin\Debug\QLTV_DUNG.pdb
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\obj\Debug\QLTV_DUNG.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\obj\Debug\QLTV_DUNG.Dangky.resources
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\obj\Debug\QLTV_DUNG.Form1.resources
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\obj\Debug\QLTV_DUNG.Home.resources
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\obj\Debug\QLTV_DUNG.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\obj\Debug\QLTV_DUNG.Quenmatkhau.resources
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\obj\Debug\QLTV_DUNG.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\obj\Debug\QLTV_DUNG.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\obj\Debug\QLTV_DUNG.exe
+C:\Users\ADMIN\source\repos\QLTV_DUNG\QLTV_DUNG\obj\Debug\QLTV_DUNG.pdb
